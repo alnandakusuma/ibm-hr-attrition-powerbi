@@ -1,3 +1,4 @@
+**Bahasa:** [English](README.md) | Bahasa Indonesia
 # Dashboard HR Attrition (Power BI)
 
 Dashboard Power BI interaktif yang menelusuri **mengapa karyawan keluar dari perusahaan** dan karakteristik tenaga kerja apa saja yang berkaitan dengan tingkat attrition yang lebih tinggi. Proyek ini dikerjakan dari awal sampai akhir: pembersihan data di Power Query, pemodelan data dengan measure DAX, dan laporan tiga halaman lengkap dengan rekomendasi untuk HR.
