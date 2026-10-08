@@ -1,3 +1,4 @@
+**Bahasa:** English | [Bahasa Indonesia](README.id.md)
 # HR Attrition Dashboard (Power BI)
 
 An interactive Power BI dashboard that explores **why employees leave** and which workforce characteristics are associated with higher attrition. Built end to end: data cleaning in Power Query, a data model with DAX measures, and a three-page report with recommendations for HR.
